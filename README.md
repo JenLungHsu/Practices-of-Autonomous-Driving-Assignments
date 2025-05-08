@@ -21,7 +21,7 @@ You can directly access the reports here:
 ├── README.md
 └── images
     ├── Finding Lane Lines.png
-    └── Traffic Sign Classifier.png
+    └── Traffic Sign Classification.png
 ```
 
 ---
