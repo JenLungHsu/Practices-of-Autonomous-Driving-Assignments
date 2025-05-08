@@ -1,6 +1,6 @@
 # Practices of Autonomous Driving - Assignments
 
-[![Semester](https://img.shields.io/badge/Semester-Fall%202023-blue)]() [![Course](https://img.shields.io/badge/Course-Practices%20of%20Autonomous%20Driving-orange)]()
+[![Semester](https://img.shields.io/badge/Semester-Spring%202024-blue)]() [![Course](https://img.shields.io/badge/Course-Practices%20of%20Autonomous%20Driving-orange)]()
 
 This repository contains two assignment reports for the **Practices of Autonomous Driving** course. These assignments were designed to provide a fundamental understanding of key concepts in autonomous driving.
 
